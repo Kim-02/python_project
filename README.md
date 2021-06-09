@@ -6,6 +6,7 @@
 
 > 현재 내용은 다음과 같습니다.
 >    > 변수의 입력과 map, split, input, if문의 활용
+>    > 
 >    > while문의 이해
 >    > def 함수의 이해와 기초 모듈 import
 >    > def 함수와 for문의 융합과 이해
