@@ -21,4 +21,3 @@
 >    > 
 >    > MYSQL 자료
 ----------------------------------
-![VS코드](https://user-images.githubusercontent.com/80444565/123952796-75134c00-d9e1-11eb-85f7-b7c9cd786ed9.PNG)
