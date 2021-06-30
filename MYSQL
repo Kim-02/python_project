@@ -8,5 +8,5 @@ MySQL은 오픈 소스이며 다중 사용자와 다중 스레드를 지원한�
 -------------------------------------------
 # MySql 기초 문법
 
-https://github.com/Kim-02/python_project/issues/1#issue-933597264
+![VS코드](https://user-images.githubusercontent.com/80444565/123952796-75134c00-d9e1-11eb-85f7-b7c9cd786ed9.PNG)
 개발 환경은 VS코드로 작성하였다. 데이터베이스를 생성하고 접근하는 과정을 UI상으로 처리할 수 있다. 따라서 CREATE DATABASE와 USE명령어를 사용할 필요가 없다.
